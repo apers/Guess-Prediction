@@ -1,0 +1,8 @@
+.Predictions {
+    border: solid 2px #888888;
+    border-top: 0;
+    width: 800px;
+    font: 2.5rem arial,sans-serif;
+    padding: 1rem;
+    color: #272727;
+}

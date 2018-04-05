@@ -1,0 +1,16 @@
+.SearchField {
+    box-shadow: 3px 3px 8px #888888;
+}
+
+.input-field {
+    height: 50px;
+    width: 800px;
+    font: 2.5rem arial,sans-serif;
+    padding: 1rem;
+    color: #272727;
+    border: solid 2px #888888;
+}
+
+.input-field:focus {
+    outline: none;
+}
